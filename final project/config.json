@@ -1,0 +1,11 @@
+{
+  "treasure": {
+    "chest_per_floor": 1,
+    "mimic_chance": 0.30,
+    "heal_rate": 0.30,
+    "gamble_attr_count_min": 1,
+    "gamble_attr_count_max": 3,
+    "backfire_prob": 0.20,
+    "mimic_boost_bias": 0.20
+  }
+}
